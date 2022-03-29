@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: blue
+Favorite food: lasagna
+Favorite musician/band: guy mazig
+Favorite movie: tropic thunder
+Requested grade in the course: 100
